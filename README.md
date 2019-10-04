@@ -4,9 +4,10 @@ Windows Audio Capture (WAC) - Unreal 4.20 Plugin that captures live audio from t
 You can create any audio visualisation through Unreal Engine's BP system by adding custom nodes that react live with your windows audio.
 
 
-UE 4.20.3
+UE 4.20 v2:
 -------------
-Update for the plugin, now 4.20.v2
+Update for the plugin
+
 Fixed SamplePtr Bug (Resolves frequent volume spikes and noise in the sampled audios output frequency array)
 
 
