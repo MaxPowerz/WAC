@@ -1,5 +1,5 @@
 # WAC
-Windows Audio Capture (WAC) - Unreal 4.20 Plugin that captures live audio from the windows default audio device and analyses it for frequency values. 
+Windows Audio Capture (WAC) - Unreal 4.20 Plugin that captures live audio from the windows default audio device and creates an array of frequency values
 
 You can create any audio visualisation through Unreal Engine's BP system by adding custom nodes that react live with your windows audio.
 
